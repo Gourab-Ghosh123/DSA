@@ -12,6 +12,7 @@ class Node {
     }
 };
 
+
 int main() {
     Node* head = new Node(10);
     Node* second = new Node(20);
